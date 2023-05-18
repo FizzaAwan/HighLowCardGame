@@ -1,4 +1,3 @@
-//Afham Bashir. 2.14.20.
 #include <iostream>
 #include "card.h"
 #include <algorithm>
